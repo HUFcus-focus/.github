@@ -42,7 +42,7 @@
             <a href="https://github.com/joseph-106"> 19 영미문학-문화학과 김성중 </a> </br>
         </td>
     <tr>
-        <td> ICT이노베이션스퀘어 </td>
+        <td> ICT이노베이션스퀘어 제 2회 AI 공모전 </td>
         <td> 2022. 08. 11 -  </td>
         <td> 교외 </td>
         <td>
