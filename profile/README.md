@@ -40,18 +40,7 @@
             <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
             <a href="https://github.com/jangjia01234"> 18 스칸디나비아어 장지아 </a> </br>
             <a href="https://github.com/joseph-106"> 19 영미문학-문화학과 김성중 </a> </br>
-        </td>
-    <tr>
-        <td> ICT이노베이션스퀘어 제 2회 AI 공모전 </td>
-        <td> 2022. 08. 11 -  </td>
-        <td> 교외 </td>
-        <td>
-            <a href="https://github.com/0417taehyun"> 16 스칸디나비아어 이태현 </a> </br>
-            <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
-            <a href="https://github.com/jangjia01234"> 18 스칸디나비아어 장지아 </a> </br>
-            <a href="https://github.com/joseph-106"> 19 영미문학-문화학과 김성중 </a> </br>
-        </td>
-    </tr>        
+        </td>       
 </table>
 
 ### :pencil2: 스터디
@@ -88,12 +77,15 @@
     </tr>
     <tr>
         <td> <a href=""> 외딴섬 </a> </td>
-        <td>  </td>
+        <td> 2022. 08. 25 - </td>
         <td> Web </td>
         <td> 1.0 </td>
         <td> </td>
         <td>
             <a href="https://github.com/0417taehyun"> 16 스칸디나비아어 이태현 </a> </br>
+            <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
+            <a href="https://github.com/jangjia01234"> 18 스칸디나비아어 장지아 </a> </br>
+            <a href="https://github.com/joseph-106"> 19 영미문학-문화학과 김성중 </a> </br>
         </td>
     </tr>     
 </table>
