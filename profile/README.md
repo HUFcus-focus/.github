@@ -2,10 +2,12 @@
 
 ## :books: 목차
 
-- [:tada: 소개](#tada-소개)
-- [:fire: 대회](#fire-대회)
-- [:pencil2: 스터디](#pencil2-스터디)
-- [:rocket: 프로젝트](#rocket-프로젝트)
+- [:owl: 훕커스 포커스](#owl-훕커스-포커스)
+  - [:books: 목차](#books-목차)
+    - [:tada: 소개](#tada-소개)
+    - [:fire: 대회](#fire-대회)
+    - [:pencil2: 스터디](#pencil2-스터디)
+    - [:rocket: 프로젝트](#rocket-프로젝트)
 
 ### :tada: 소개
 
@@ -40,7 +42,11 @@
             <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
             <a href="https://github.com/jangjia01234"> 18 스칸디나비아어 장지아 </a> </br>
             <a href="https://github.com/joseph-106"> 19 영미문학-문화학과 김성중 </a> </br>
+<<<<<<< HEAD
         </td>       
+=======
+        </td>     
+>>>>>>> 720b29e (:memo: Add 외딴섬 project)
 </table>
 
 ### :pencil2: 스터디
@@ -54,7 +60,7 @@
     </tr>
     <tr>
         <td> <a href="https://github.com/HUFcus-focus/algo-gago"> [ HUFStudy ] 알고 가고(ALGO GAGO) </a> </td>
-        <td> 2022. 06. 22 - </td>
+        <td> 2022. 06. 22 - 2022. 10. 30 </td>
         <td> 알고리즘, 파이썬 </td>
         <td>
             <a href="https://github.com/0417taehyun"> 16 스칸디나비아어 이태현 </a> </br>
@@ -62,6 +68,15 @@
             <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
         </td>
     </tr>
+    <tr>
+        <td> <a href="https://github.com/HUFcus-focus/algo-gago"> 원고(One Go) </a> </td>
+        <td> 2023. 01. 03 </td>
+        <td> 알고리즘 </td>
+        <td>
+            <a href="https://github.com/0417taehyun"> 16 스칸디나비아어 이태현 </a> </br>
+            <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
+        </td>
+    </tr>    
 </table>
 
 ### :rocket: 프로젝트
@@ -77,7 +92,11 @@
     </tr>
     <tr>
         <td> <a href=""> 외딴섬 </a> </td>
+<<<<<<< HEAD
         <td> 2022. 08. 25 - </td>
+=======
+        <td> 2022. 01. 02 -  </td>
+>>>>>>> 720b29e (:memo: Add 외딴섬 project)
         <td> Web </td>
         <td> 1.0 </td>
         <td> </td>
