@@ -88,11 +88,7 @@
     </tr>
     <tr>
         <td> <a href=""> 외딴섬 </a> </td>
-<<<<<<< HEAD
         <td> 2022. 08. 25 - </td>
-=======
-        <td> 2022. 01. 02 -  </td>
->>>>>>> 720b29e (:memo: Add 외딴섬 project)
         <td> Web </td>
         <td> 1.0 </td>
         <td> </td>
