@@ -42,11 +42,7 @@
             <a href="https://github.com/hgene0929"> 18 스칸디나비아어 이현진 </a> </br>
             <a href="https://github.com/jangjia01234"> 18 스칸디나비아어 장지아 </a> </br>
             <a href="https://github.com/joseph-106"> 19 영미문학-문화학과 김성중 </a> </br>
-<<<<<<< HEAD
         </td>       
-=======
-        </td>     
->>>>>>> 720b29e (:memo: Add 외딴섬 project)
 </table>
 
 ### :pencil2: 스터디
